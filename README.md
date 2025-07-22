@@ -52,7 +52,7 @@
 
 | Project | Readme | Description |
 |---------|---------|-------------|
-| [SayrexLogger](https://github.com/s4yr3x/SayrexLogger) | [v1.0 (22 July 2025)](https://github.com/s4yr3x/SayrexLogger/blob/main/README.md) | 	PoC logger showcasing reverse, malware research and cryptography concepts |
+| [SayrexLogger](https://github.com/s4yr3x/SayrexLogger) | [v1.0 (22 July 2025)](https://github.com/s4yr3x/SayrexLogger/blob/main/README.md) | 	PoC logger showcasing reverse, malware development and cryptography concepts |
 
 ---
 
